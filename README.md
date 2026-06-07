@@ -130,7 +130,7 @@ cd backend
 npm install
 
 # Create a .env file (or export these variables)
-# var
+# export variables
 export DB_HOST=localhost
 export DB_PORT=5432
 export DB_USER=jerney_user
